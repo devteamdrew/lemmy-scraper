@@ -1,0 +1,8 @@
+{
+  "instance": "lemmy.world",
+  "mode": "search",
+  "queries": [
+    "linux"
+  ],
+  "maxItems": 20
+}
